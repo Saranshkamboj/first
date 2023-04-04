@@ -1,0 +1,6 @@
+1. first we installed git in our system.
+2. we logged in on github.
+3. we create an directory /first.
+4. we intialize it as empty repository by command = git init.
+5. then we create this 1st.txt.
+
